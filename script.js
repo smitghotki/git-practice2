@@ -1,6 +1,6 @@
 let age = prompt("Enter you age")
 
-if(age>=18){
+if(age>=20){
     console.log("You can vote");
 }
 else
